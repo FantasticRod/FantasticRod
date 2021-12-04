@@ -1,0 +1,21 @@
+{
+  "array":
+  [
+    1,
+    2,
+    3
+    ],
+    "boolean": true,
+  "color": "gold",
+  "null": null,
+  "number": 123,
+    
+    
+    "planetas":
+    {
+      "nome":"terra",
+      "posicao":"verdadeira"
+    
+},
+"string": "hello Word"
+}
